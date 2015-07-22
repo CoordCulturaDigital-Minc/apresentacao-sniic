@@ -236,6 +236,11 @@
 				</section>
 
 				<section >
+					<h2>Cadastro Nacional de Bibliotecas</h2>
+					<img src="img/mapaBibliotecas.png" />
+				</section>
+
+				<section >
 					<h2>Login Único</h2>
 					<p class="fragment">
 						Identidade Digital Cidadã
